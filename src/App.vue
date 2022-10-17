@@ -4,7 +4,9 @@
     <!-- <CrudOpration /> -->
     <!-- <AssignmentFive /> -->
     <!-- <AssignmentOne /> -->
-    <AssignmentThree />
+    <!-- <AssignmentThree /> -->
+    <!-- <AssignmentFour /> -->
+    <FriendsContact />
   </div>
 </template>
 
@@ -13,14 +15,18 @@
 // import CrudOpration from "@/components/CrudOpration.vue";
 // import AssignmentFive from "@/components/AssignmentFive.vue";
 // import AssignmentOne from "@/components/AssignmentOne.vue";
-import AssignmentThree from "@/components/AssignmentThree.vue";
+// import AssignmentThree from "@/components/AssignmentThree.vue";
+// import AssignmentFour from "@/components/AssignmentFour.vue";
+import FriendsContact from "@/components/FriendsContact.vue";
 export default {
   components: {
     // AddCalculator,
     // CrudOpration,
     // AssignmentFive,
     // AssignmentOne,
-    AssignmentThree,
+    // AssignmentThree,
+    // AssignmentFour,
+    FriendsContact,
   },
 };
 </script>
